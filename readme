@@ -1,0 +1,23 @@
+CS 666: Hardware Security For Internet-Of-Things
+Credits:
+3-0-0-0 (9)
+Instructor: Prof. Urbi Chatterjee
+
+Prerequisites:
+Knowledge equivalent of CS220 and CS641
+
+Who Can Take The Course:
+PhD, Masters, 3rd and 4th year UG Students
+
+ 
+Departments That May Be Interested:
+CSE, EE
+
+Course Objective
+The domain of hardware security mainly covers the protection of physical device from different security threats posed by information leakage 
+through covert channels, Trojan insertion, machine learning attacks, in- vasive or semi-invasion attacks etc. Even, 
+secure deployment of various hardware security primitives in the untrusted environments entails several hardware and protocol level challenges. 
+In this course, we will focus on the ever-increasing number of connected devices in IoT framework and analyse the impact of real world threats. 
+And then, we will intro- duce various hardware security primitives for authentication and secure communication. The contents selected for the course are 
+  based on research papers from top-tier journals and conferences such as IEEE TIFS, IACR TCHES, IEEE TDSC, ACM TECS, CCS, S&P, USENIX, DAC, DATE etc. 
+covering advanced topics of hardware security.
